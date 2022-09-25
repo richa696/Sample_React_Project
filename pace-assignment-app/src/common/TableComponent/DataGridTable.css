@@ -1,0 +1,52 @@
+
+li.active.page-item a {
+    background-color:#22b1ed !important;
+    border-color:#22b1ed !important;
+}
+
+.react-bootstrap-table table {
+    table-layout: auto;
+  }
+.all-stdnt-apply {
+    background-color: #22b1ed !important;
+    box-shadow: 0 .125rem .25rem 0 rgba(58,59,69,.2)!important;
+    color: #fff !important;
+    width: 100px;
+    border: 0px !important;
+    border-radius: 0px !important;
+    height: 38px !important;
+}
+
+button:focus
+{
+    outline: 0px auto -webkit-focus-ring-color !important;
+}
+.table thead th {
+    border: 1px solid #dee2e6 !important;
+}
+
+table th {
+    font-weight: 600 !important;
+    text-align: center !important;
+    background: rgb(234, 236, 244) !important;
+    color: rgb(110, 112, 126) !important;
+    font-size: 14px !important;
+}
+
+table td {
+    font-weight: 400 !important;
+}
+button#pageDropDown {
+    padding: .375rem .75rem !important;
+    margin-bottom: 10px;
+}
+
+.table-bordered thead th, .table-bordered thead td {
+    border-bottom-width: 2px !important;
+}
+
+table.table th, table.table td {
+    padding-top: 0.8rem !important;
+    padding-bottom: 0.8rem !important;
+}
+
